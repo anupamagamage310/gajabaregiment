@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\StringHelper.obj",
+            "outputs": [
+                "x64\\Release\\StringHelper.h.obj.dt.module.json",
+                "x64\\Release\\StringHelper.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+c:\Users\LENOVO\Desktop\OOP Project\FasFlix\FasFlix\Fasflix\x64\Release\FasFlix.vcxproj.AssemblyReference.cache
+c:\Users\LENOVO\Desktop\OOP Project\FasFlix\FasFlix\Fasflix\x64\Release\FasFlix.HomeForm.resources
+c:\Users\LENOVO\Desktop\OOP Project\FasFlix\FasFlix\Fasflix\x64\Release\FasFlix.LoginForm.resources
+c:\Users\LENOVO\Desktop\OOP Project\FasFlix\FasFlix\Fasflix\x64\Release\FasFlix.vcxproj.GenerateResource.cache
+c:\Users\LENOVO\Desktop\OOP Project\FasFlix\FasFlix\Fasflix\x64\Release\FasFlix.AdminCatalogForm.resources
+c:\Users\LENOVO\Desktop\OOP Project\FasFlix\FasFlix\Fasflix\x64\Release\FasFlix.MovieDetailsForm.resources
+c:\Users\LENOVO\Desktop\OOP Project\FasFlix\FasFlix\Fasflix\x64\Release\FasFlix.WatchlistForm.resources

@@ -1,0 +1,4 @@
+C:\Users\LENOVO\Desktop\OOP Project\FasFlix\FasFlix\x64\Debug\FasFlix.vcxproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\OOP Project\FasFlix\FasFlix\x64\Debug\FasFlix.LoginForm.resources
+C:\Users\LENOVO\Desktop\OOP Project\FasFlix\FasFlix\x64\Debug\FasFlix.vcxproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\OOP Project\FasFlix\FasFlix\x64\Debug\FasFlix.HomeForm.resources

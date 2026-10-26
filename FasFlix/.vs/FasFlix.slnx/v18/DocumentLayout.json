@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B268572-44C6-9E76-F629-F5FF356D7595}|FasFlix\\FasFlix.vcxproj|C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\LoginForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{3B268572-44C6-9E76-F629-F5FF356D7595}|FasFlix\\FasFlix.vcxproj|solutionrelative:FasFlix\\LoginForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B268572-44C6-9E76-F629-F5FF356D7595}|FasFlix\\FasFlix.vcxproj|C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\LoginForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B268572-44C6-9E76-F629-F5FF356D7595}|FasFlix\\FasFlix.vcxproj|solutionrelative:FasFlix\\LoginForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B268572-44C6-9E76-F629-F5FF356D7595}|FasFlix\\FasFlix.vcxproj|C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\HomeForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{3B268572-44C6-9E76-F629-F5FF356D7595}|FasFlix\\FasFlix.vcxproj|solutionrelative:FasFlix\\HomeForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B268572-44C6-9E76-F629-F5FF356D7595}|FasFlix\\FasFlix.vcxproj|C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\HomeForm.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3B268572-44C6-9E76-F629-F5FF356D7595}|FasFlix\\FasFlix.vcxproj|solutionrelative:FasFlix\\HomeForm.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B268572-44C6-9E76-F629-F5FF356D7595}|FasFlix\\FasFlix.vcxproj|C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\MovieDetailsForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{3B268572-44C6-9E76-F629-F5FF356D7595}|FasFlix\\FasFlix.vcxproj|solutionrelative:FasFlix\\MovieDetailsForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B268572-44C6-9E76-F629-F5FF356D7595}|FasFlix\\FasFlix.vcxproj|C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\Movie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B268572-44C6-9E76-F629-F5FF356D7595}|FasFlix\\FasFlix.vcxproj|solutionrelative:FasFlix\\Movie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B268572-44C6-9E76-F629-F5FF356D7595}|FasFlix\\FasFlix.vcxproj|C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\AdminCatalogForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{3B268572-44C6-9E76-F629-F5FF356D7595}|FasFlix\\FasFlix.vcxproj|solutionrelative:FasFlix\\AdminCatalogForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B268572-44C6-9E76-F629-F5FF356D7595}|FasFlix\\FasFlix.vcxproj|C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\HomeForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B268572-44C6-9E76-F629-F5FF356D7595}|FasFlix\\FasFlix.vcxproj|solutionrelative:FasFlix\\HomeForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B268572-44C6-9E76-F629-F5FF356D7595}|FasFlix\\FasFlix.vcxproj|C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\AdminCatalogForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B268572-44C6-9E76-F629-F5FF356D7595}|FasFlix\\FasFlix.vcxproj|solutionrelative:FasFlix\\AdminCatalogForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B268572-44C6-9E76-F629-F5FF356D7595}|FasFlix\\FasFlix.vcxproj|C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\MovieDetailsForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B268572-44C6-9E76-F629-F5FF356D7595}|FasFlix\\FasFlix.vcxproj|solutionrelative:FasFlix\\MovieDetailsForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B268572-44C6-9E76-F629-F5FF356D7595}|FasFlix\\FasFlix.vcxproj|C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\LoginForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B268572-44C6-9E76-F629-F5FF356D7595}|FasFlix\\FasFlix.vcxproj|solutionrelative:FasFlix\\LoginForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B268572-44C6-9E76-F629-F5FF356D7595}|FasFlix\\FasFlix.vcxproj|C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\MovieDetailsForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B268572-44C6-9E76-F629-F5FF356D7595}|FasFlix\\FasFlix.vcxproj|solutionrelative:FasFlix\\MovieDetailsForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginForm.cpp",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\LoginForm.cpp",
+              "RelativeDocumentMoniker": "FasFlix\\LoginForm.cpp",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\LoginForm.cpp",
+              "RelativeToolTip": "FasFlix\\LoginForm.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-10T17:52:28.256Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.h",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\LoginForm.h",
+              "RelativeDocumentMoniker": "FasFlix\\LoginForm.h",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\LoginForm.h",
+              "RelativeToolTip": "FasFlix\\LoginForm.h",
+              "ViewState": "AgIAAMMBAAAAAAAAAAAhwNMBAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-10T18:06:27.854Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeForm.resx",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\HomeForm.resx",
+              "RelativeDocumentMoniker": "FasFlix\\HomeForm.resx",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\HomeForm.resx",
+              "RelativeToolTip": "FasFlix\\HomeForm.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKACAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-17T13:20:35.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeForm.h [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\HomeForm.h",
+              "RelativeDocumentMoniker": "FasFlix\\HomeForm.h",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\HomeForm.h [Design]",
+              "RelativeToolTip": "FasFlix\\HomeForm.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-12T08:40:59.425Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.h [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\LoginForm.h",
+              "RelativeDocumentMoniker": "FasFlix\\LoginForm.h",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\LoginForm.h [Design]",
+              "RelativeToolTip": "FasFlix\\LoginForm.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-10T18:05:05.734Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieDetailsForm.h [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\MovieDetailsForm.h",
+              "RelativeDocumentMoniker": "FasFlix\\MovieDetailsForm.h",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\MovieDetailsForm.h [Design]",
+              "RelativeToolTip": "FasFlix\\MovieDetailsForm.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-17T05:07:24.086Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminCatalogForm.h [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\AdminCatalogForm.h",
+              "RelativeDocumentMoniker": "FasFlix\\AdminCatalogForm.h",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\AdminCatalogForm.h [Design]",
+              "RelativeToolTip": "FasFlix\\AdminCatalogForm.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-17T06:11:00.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.h",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\Movie.h",
+              "RelativeDocumentMoniker": "FasFlix\\Movie.h",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\Movie.h",
+              "RelativeToolTip": "FasFlix\\Movie.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-17T06:58:06.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeForm.h",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\HomeForm.h",
+              "RelativeDocumentMoniker": "FasFlix\\HomeForm.h",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\HomeForm.h",
+              "RelativeToolTip": "FasFlix\\HomeForm.h",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAhwG4CAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-12T12:19:15.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminCatalogForm.h",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\AdminCatalogForm.h",
+              "RelativeDocumentMoniker": "FasFlix\\AdminCatalogForm.h",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\AdminCatalogForm.h",
+              "RelativeToolTip": "FasFlix\\AdminCatalogForm.h",
+              "ViewState": "AgIAADgAAAAAAAAAAAAhwPoBAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-17T06:35:28.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovieDetailsForm.cpp",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\MovieDetailsForm.cpp",
+              "RelativeDocumentMoniker": "FasFlix\\MovieDetailsForm.cpp",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\MovieDetailsForm.cpp",
+              "RelativeToolTip": "FasFlix\\MovieDetailsForm.cpp",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAKwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-17T05:53:14.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieDetailsForm.h",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\MovieDetailsForm.h",
+              "RelativeDocumentMoniker": "FasFlix\\MovieDetailsForm.h",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\OOP Project\\FasFlix\\FasFlix\\MovieDetailsForm.h",
+              "RelativeToolTip": "FasFlix\\MovieDetailsForm.h",
+              "ViewState": "AgIAADAAAAAAAAAAAAAhwEABAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-17T05:22:17.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
